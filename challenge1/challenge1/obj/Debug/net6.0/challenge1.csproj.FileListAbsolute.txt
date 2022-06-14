@@ -1,0 +1,15 @@
+C:\Users\maxla\source\repos\challenge1\challenge1\bin\Debug\net6.0\challenge1.exe
+C:\Users\maxla\source\repos\challenge1\challenge1\bin\Debug\net6.0\challenge1.deps.json
+C:\Users\maxla\source\repos\challenge1\challenge1\bin\Debug\net6.0\challenge1.runtimeconfig.json
+C:\Users\maxla\source\repos\challenge1\challenge1\bin\Debug\net6.0\challenge1.dll
+C:\Users\maxla\source\repos\challenge1\challenge1\bin\Debug\net6.0\challenge1.pdb
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.csproj.AssemblyReference.cache
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.AssemblyInfoInputs.cache
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.AssemblyInfo.cs
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.csproj.CoreCompileInputs.cache
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.dll
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\refint\challenge1.dll
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.pdb
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\challenge1.genruntimeconfig.cache
+C:\Users\maxla\source\repos\challenge1\challenge1\obj\Debug\net6.0\ref\challenge1.dll
